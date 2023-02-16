@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Freeway
 
 Criei este game com o intuito de aprender Javascript.
 
