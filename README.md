@@ -1,17 +1,18 @@
 # Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+Criei este game com o intuito de aprender Javascript.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Freeway**
+| :label: Tecnologias | Javascript
+| :rocket: URL         | https://editor.p5js.org/rsowtto/full/tmIIe4ynX
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-listas-lacos
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Print Freeway Javascript](https://user-images.githubusercontent.com/63820646/219244714-6e19ba5b-893e-43b0-8a61-2634385e5e69.png#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+## Game feito em Javascript no P5 JS
+
+Para a implementação deste projeto, utilizei boas práticas de refatoração de código, funções, estruturas de condição, estruturas de repetição, uso de dados não estruturados como imagens e sons. 
